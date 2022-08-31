@@ -1,0 +1,6 @@
+1. Wyjaśnij co to klasa i obiekt, podaj przykłady
+2. Opisz klasę abstrakcyjną
+3. Wyjaśnij czym jest dziedziczenie. Opisz jego wady i zalety
+
+Jeśli uzyskałeś/aś pozytywną ocenę z części warsztatowej i projektowej to nie musisz przystępować do egzaminu. Ocena z wykładu będzie równa średniej arytmetycznej 
+z tych 2 części. Jako odpowiedź na ten egzamin wyślij informację, że korzystasz ze zwolnienia
