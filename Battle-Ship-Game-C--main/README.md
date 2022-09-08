@@ -1,6 +1,6 @@
 Damian Skuras Zaawansowane Technologie Programowania |
-
-
+-----------------------------------------------------
+Projekt na zalcizenie przedmiotu
 
 
 -----------------------------------------------------
