@@ -1,0 +1,11 @@
+B:\C# Project\Memory Game\bin\Debug\Memory Game.exe.config
+B:\C# Project\Memory Game\bin\Debug\Memory Game.exe
+B:\C# Project\Memory Game\bin\Debug\Memory Game.pdb
+B:\C# Project\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+B:\C# Project\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+B:\C# Project\Memory Game\obj\Debug\Memory_Game.Form1.resources
+B:\C# Project\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+B:\C# Project\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+B:\C# Project\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+B:\C# Project\Memory Game\obj\Debug\Memory Game.exe
+B:\C# Project\Memory Game\obj\Debug\Memory Game.pdb
