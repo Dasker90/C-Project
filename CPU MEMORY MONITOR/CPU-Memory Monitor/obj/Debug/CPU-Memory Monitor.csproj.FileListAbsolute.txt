@@ -1,0 +1,11 @@
+B:\C# Project\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.exe.config
+B:\C# Project\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.exe
+B:\C# Project\CPU-Memory Monitor\bin\Debug\CPU-Memory Monitor.pdb
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.csproj.AssemblyReference.cache
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.csproj.SuggestedBindingRedirects.cache
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU_Memory_Monitor.Form1.resources
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU_Memory_Monitor.Properties.Resources.resources
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.csproj.GenerateResource.cache
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.csproj.CoreCompileInputs.cache
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.exe
+B:\C# Project\CPU-Memory Monitor\obj\Debug\CPU-Memory Monitor.pdb
