@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoqVIaGzy4oEzlWuBoCnrZ3qz4mtiClNF34R8lFh9ra/1wzcgPXw9ioSE6gp5RtG4+psHX16IEwyTfbfOEMTFg==",
+  "success": true,
+  "projectFilePath": "B:\\C# Project\\Gauge\\Gauge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damian\\.nuget\\packages\\agauge\\2.0.1\\agauge.2.0.1.nupkg.sha512",
+    "C:\\Users\\Damian\\.nuget\\packages\\agauge_v2\\2.0.2\\agauge_v2.2.0.2.nupkg.sha512",
+    "C:\\Users\\Damian\\.nuget\\packages\\gauge.csharp.lib\\0.9.0\\gauge.csharp.lib.0.9.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „AGauge 2.0.1” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "AGauge",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „AGauge_V2 2.0.2” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "AGauge_V2",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

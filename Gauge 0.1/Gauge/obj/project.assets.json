@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "AGauge/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/NET451/AGauge.dll": {}
+        },
+        "runtime": {
+          "lib/NET451/AGauge.dll": {}
+        }
+      },
+      "AGauge_V2/2.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/AGauge.dll": {}
+        },
+        "runtime": {
+          "lib/AGauge.dll": {}
+        }
+      },
+      "Gauge.CSharp.Lib/0.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Gauge.CSharp.Lib.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Gauge.CSharp.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AGauge/2.0.1": {
+      "sha512": "bsLtZ/JLl1q21tWcPs6Fqtk85cZBzkFtBvnQaDM4Wpdsfi39pLh/dRWfphQUUbZ0jV3XaoP0DNVMopyeXpt3Hw==",
+      "type": "package",
+      "path": "agauge/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "agauge.2.0.1.nupkg.sha512",
+        "agauge.nuspec",
+        "lib/NET35/AGauge.dll",
+        "lib/NET40/AGauge.dll",
+        "lib/NET45/AGauge.dll",
+        "lib/NET451/AGauge.dll"
+      ]
+    },
+    "AGauge_V2/2.0.2": {
+      "sha512": "ELGc0vFlAbhJOqmvnN9l1uNize9y9OW/zAe1MtKgFbC3jIWQSRGAHy+KRfhMLhHQ5pyHBJDtg+LSMxsGmZnLZA==",
+      "type": "package",
+      "path": "agauge_v2/2.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "agauge_v2.2.0.2.nupkg.sha512",
+        "agauge_v2.nuspec",
+        "lib/AGauge.dll"
+      ]
+    },
+    "Gauge.CSharp.Lib/0.9.0": {
+      "sha512": "fN33vZfO+ZgNg9yv1xDLkHoPkDugwy6U4LipqTVrJVL7bHRz3+4JpJFMu5AluxmsCNc5Uc+WGPANuvqKR7ozBg==",
+      "type": "package",
+      "path": "gauge.csharp.lib/0.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "gauge.csharp.lib.0.9.0.nupkg.sha512",
+        "gauge.csharp.lib.nuspec",
+        "lib/net5.0/Gauge.CSharp.Lib.dll",
+        "lib/netstandard2.1/Gauge.CSharp.Lib.dll",
+        "logo.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "AGauge >= 2.0.1",
+      "AGauge_V2 >= 2.0.2",
+      "Gauge.CSharp.Lib >= 0.9.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Damian\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "B:\\C# Project\\Gauge\\Gauge.csproj",
+      "projectName": "Gauge",
+      "projectPath": "B:\\C# Project\\Gauge\\Gauge.csproj",
+      "packagesPath": "C:\\Users\\Damian\\.nuget\\packages\\",
+      "outputPath": "B:\\C# Project\\Gauge\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Damian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "AGauge": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
+          "AGauge_V2": {
+            "target": "Package",
+            "version": "[2.0.2, )"
+          },
+          "Gauge.CSharp.Lib": {
+            "target": "Package",
+            "version": "[0.9.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „AGauge 2.0.1” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "AGauge",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „AGauge_V2 2.0.2” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "AGauge_V2",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
