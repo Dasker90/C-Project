@@ -1,0 +1,17 @@
+B:\C# Project\Loop DASKER\bin\Debug\net6.0-windows\Loop DASKER.exe
+B:\C# Project\Loop DASKER\bin\Debug\net6.0-windows\Loop DASKER.deps.json
+B:\C# Project\Loop DASKER\bin\Debug\net6.0-windows\Loop DASKER.runtimeconfig.json
+B:\C# Project\Loop DASKER\bin\Debug\net6.0-windows\Loop DASKER.dll
+B:\C# Project\Loop DASKER\bin\Debug\net6.0-windows\Loop DASKER.pdb
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.csproj.AssemblyReference.cache
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop_DASKER.Form1.resources
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.csproj.GenerateResource.cache
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.GeneratedMSBuildEditorConfig.editorconfig
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.AssemblyInfoInputs.cache
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.AssemblyInfo.cs
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.csproj.CoreCompileInputs.cache
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.dll
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\refint\Loop DASKER.dll
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.pdb
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\Loop DASKER.genruntimeconfig.cache
+B:\C# Project\Loop DASKER\obj\Debug\net6.0-windows\ref\Loop DASKER.dll
