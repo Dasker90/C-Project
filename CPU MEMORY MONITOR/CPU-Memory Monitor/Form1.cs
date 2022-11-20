@@ -10,7 +10,7 @@ using System.Timers;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
+// - Monitorowanie Memory CPU
 namespace CPU_Memory_Monitor
 {
     public partial class Form1 : Form
