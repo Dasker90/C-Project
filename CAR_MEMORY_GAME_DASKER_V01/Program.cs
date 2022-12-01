@@ -17,6 +17,7 @@ namespace CAR_MEMORY_GAME_DASKER_V01
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new A1());
+            //---
         }
     }
 }
